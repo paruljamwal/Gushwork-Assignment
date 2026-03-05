@@ -1,4 +1,4 @@
-# Gushwork-Assignment
+# Gushwork-Assignment : https://ghuswork.netlify.app
 
 Web View
 <img width="1470" height="832" alt="image" src="https://github.com/user-attachments/assets/bbbc7b30-46ba-4c76-9216-6d69dde3db7b" />
@@ -14,7 +14,6 @@ Web View
 <img width="1466" height="831" alt="image" src="https://github.com/user-attachments/assets/f5fb869d-d86d-4be3-aa75-5a98de1ba0d0" />
 <img width="1470" height="833" alt="image" src="https://github.com/user-attachments/assets/ecadb3d7-97ba-4dfe-8f90-a11c048d1452" />
 <img width="1470" height="832" alt="image" src="https://github.com/user-attachments/assets/a5156959-8c75-4314-a085-a0204917819b" />
-<img width="1469" height="836" alt="image" src="https://github.com/user-attachments/assets/56227aca-1a3d-48f3-a163-9a54a3fac29d" />
 
 Mobile View 
 <img width="424" height="773" alt="image" src="https://github.com/user-attachments/assets/2ab18f09-0db2-44a7-929e-cb1c417eaa39" />
@@ -34,4 +33,3 @@ Mobile View
 <img width="399" height="782" alt="image" src="https://github.com/user-attachments/assets/7f764292-114a-4ae0-8710-7fa7c051d6ef" />
 
 
-Link: https://ghuswork.netlify.app
